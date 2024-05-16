@@ -8,3 +8,38 @@ body{
 	text-align:center;
 	padding: 5px;
 }
+img{
+	width:150px
+}
+.container{
+	display:flex;
+	flex-direction:row;
+	justify-content: space-between;
+    padding: 20px;
+}
+.latest-news-section{
+	background-color:white;
+	border-radius:10px;
+	text-align:center;
+	width: 500px;
+	height:200px;
+	padding: 10px;
+	margin:10px;
+}
+.main-news-section{
+	background-color:white;
+	border-radius:10px;
+	text-align:center;
+	width: 500px;
+	padding: 10px;
+	margin:10px;
+}
+.pictorial-news-section{
+	background-color:white;
+	border-radius:10px;
+	text-align:center;
+	width: 500px;
+	height: 350px;
+	padding: 10px;
+	margin:10px;
+}
